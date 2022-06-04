@@ -1,5 +1,7 @@
 Challenge Name: ReverseScript
+
 Date: 4 June 2022
+
 Challenge Author(s): ERr0rhm3
 
 ### Description:
@@ -12,11 +14,11 @@ To find the flag by reverse engineering a given bin file.
 
 ### Difficulty:
 
-'Medium`
+`Medium`
 
 ### Flag:
 
-'THM{doEstHeflAgalwaayShavetOmEaNsomethIng}`
+`THM{doEstHeflAgalwaayShavetOmEaNsomethIng}`
 
 # Writeup
 
